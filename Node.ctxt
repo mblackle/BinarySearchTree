@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Node(java.lang.String)
+comment1.params=p
+comment1.target=Node\ search(java.lang.String)
+comment10.params=
+comment10.target=Node\ getRight()
+comment2.params=e
+comment2.target=void\ add(Node)
+comment3.params=
+comment3.target=int\ getFrequency()
+comment4.params=
+comment4.target=void\ increaseFrequency()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=e
+comment7.target=void\ setLeft(Node)
+comment8.params=e
+comment8.target=void\ setRight(Node)
+comment9.params=
+comment9.target=Node\ getLeft()
+numComments=11
